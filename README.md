@@ -18,9 +18,9 @@ rackup config.ru
 
 ## Screenshots
 
-![ruby](images/ruby.png)  | ![ruby-diff](images/ruby-diff.png)
----|---
-Ruby Lexer  | RubyDiff custom lexer 
+![diff](images/diff.png) | ![ruby](images/ruby.png)  | ![ruby-diff](images/ruby-diff.png)
+---|---|---
+Diff Lexer | Ruby Lexer  | RubyDiff custom lexer 
 
 ## Try a different theme
 
