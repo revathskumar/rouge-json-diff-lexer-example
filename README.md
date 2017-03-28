@@ -16,6 +16,12 @@ bundle
 rackup config.ru
 ```
 
+## Screenshots
+
+![ruby](images/ruby.png)  | ![ruby-diff](images/ruby-diff.png)
+---|---
+Ruby Lexer  | RubyDiff custom lexer 
+
 ## Try a different theme
 
 Get the list of themes from [rouge/lib/rouge/themes](https://github.com/jneen/rouge/tree/ec665bb2ccac767874e85c5b9d6fdefbf471058e/lib/rouge/themes) and generate theme via command
