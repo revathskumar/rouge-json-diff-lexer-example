@@ -1,0 +1,22 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    cuba (3.8.0)
+      rack (>= 1.6.0)
+    erubis (2.7.0)
+    rack (2.0.1)
+    rouge (2.0.7)
+    tilt (2.0.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cuba
+  erubis
+  rack
+  rouge
+  tilt
+
+BUNDLED WITH
+   1.13.7
